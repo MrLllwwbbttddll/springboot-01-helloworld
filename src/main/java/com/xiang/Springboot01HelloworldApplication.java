@@ -10,5 +10,4 @@ public class Springboot01HelloworldApplication {
         SpringApplication.run(Springboot01HelloworldApplication.class, args);
         System.out.println("hello git");
     }
-
 }
